@@ -1,0 +1,6 @@
+b6c4bb632a13c46b2e3555927e9c696b5122fa05c8bd5ba29a9b98ddc02a6590  boot-5.15.85-kuma.tar.gz
+66e776e296dfaf07b0ecd4eb9d45600db2b1413a2eca7d052761304d93284244  dtb-allwinner-5.15.85-kuma.tar.gz
+8446f18eb78a4c649b62c843d62d75f45571098c9b4d4ca3696f08ae13de5f36  dtb-amlogic-5.15.85-kuma.tar.gz
+cea49604b20c9a1143512f53e1b3f8ab3afc5aaf4a8bd670c2b3a686997a12d6  dtb-rockchip-5.15.85-kuma.tar.gz
+6ec7a08b0d9aa441aa50b6712aff29ce6464eaa2dcec61cafd064eea1edd3a15  header-5.15.85-kuma.tar.gz
+df69a36153b0d3cabdca2403d30c94b9a98a2dec3cadae606219799b3bbb517e  modules-5.15.85-kuma.tar.gz
